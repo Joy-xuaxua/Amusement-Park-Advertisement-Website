@@ -1,0 +1,27 @@
+.form_content {
+    width: 80%;
+    margin: auto;
+    /* height:20%; */
+    margin-bottom: 1%;
+}
+
+input,
+option,
+select {
+    width: 50%;
+    float: right;
+    height: 22px;
+    box-sizing: border-box;
+}
+
+input[type="submit"],
+input[type="reset"] {
+    width: 40%;
+}
+
+.form_btns {
+    clear: both;
+    margin: auto;
+    display: flex;
+    justify-content: space-around;
+}

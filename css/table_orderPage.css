@@ -1,0 +1,36 @@
+#table0 h2,
+#table0 h4 {
+  text-align: center;
+}
+
+/* body * {
+  border:solid gray 0.5px;
+} */
+
+#table0 label {
+  margin: auto;
+  width:fit-content;
+}
+
+table {
+  width: 96%;
+  margin: 2%;
+  background-color: antiquewhite;
+}
+
+th,
+td {
+  border: solid white;
+}
+
+.description {
+  text-align: left;
+}
+
+.quantity {
+  text-align: right;
+}
+
+#total {
+  text-align: right;
+}

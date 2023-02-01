@@ -1,0 +1,68 @@
+/* @import url(order.css); */
+@import url(table_orderPage.css);
+@import url(undo.css);
+/* @import url(header.css); */
+
+#header , #welcome , #table0 {
+    width:90%;
+}
+
+ #header {
+    text-align: center;
+    background-color:white;
+    color:black;
+    overflow: hidden;
+    margin:auto;
+} 
+
+#welcome {
+    border: solid gray 0.5px;
+    border-radius: 0.25rem;
+    height: fit-content;
+    text-align: center;
+    margin:0 auto;
+}
+
+#header_img {
+    display: inline-block;
+    margin-right: 2%;
+}
+header img {
+    width: 220px;
+    vertical-align: middle;
+}
+#header_text {
+    display: inline-block;
+    vertical-align: middle;
+    color:black;
+    /* background: linear-gradient(blue, pink); */
+}
+
+
+body {
+    -webkit-print-color-adjust: exact !important;
+    print-color-adjust: exact !important;
+}
+
+#content1 {
+    display: none;
+}
+
+#table0 {
+    height: fit-content;
+    border: solid gray 0.5px;
+    border-radius: 0.375rem;
+}
+
+header,
+#table0 {
+    clear: right;
+    /* width: 90%; */
+    margin: auto;
+    /* print-color-adjust: exact; */
+}
+
+
+footer {
+    display: none;
+}

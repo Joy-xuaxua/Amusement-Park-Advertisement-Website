@@ -1,0 +1,46 @@
+  body {
+    width: 97%;
+    margin: 0 auto;
+  }
+
+  #welcome {
+    border: solid 0.5px;
+    border-radius: 0.25rem;
+    margin-top:90px;
+    margin-bottom: 4%;
+    height:fit-content;
+    text-align: center;
+  }
+
+  html,
+  body {
+    min-height: 100%;
+  }
+
+  footer {
+    width: 100%;
+    clear: both;
+  }
+
+
+  #content1,
+  #table0,
+  footer {
+    border: solid 1.5px;
+    border-radius: 0.375rem;
+    border-color: gray;
+    padding: 1%;
+  }
+
+  #content1 {
+    width: 68%;
+    /* margin-right:4%; */
+    float: left;
+  }
+
+  #table0 {
+    width: 22%;
+    float: right;
+    border-color: gray;
+  }
+
