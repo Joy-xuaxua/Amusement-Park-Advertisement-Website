@@ -1,4 +1,4 @@
-# -Amusement-Park-Advertisement-Website
+# Amusement Park Advertisement Website
 It's a project required by a course. The grade for this project was A.
 
 ## Get-started
